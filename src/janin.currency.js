@@ -274,6 +274,7 @@ janin.currencies = [
     janin.currency.createCurrency ("Vertcoin",            0x47, 0x80, "5",    "[LK]" , "VkmBz8JJWLP1sVH9sGwc1Fz7o5RtXLW4J5"),
     janin.currency.createCurrency ("Viacoin",             0x47, 0xc7, "7",    "W"    , "VeJMvqvsZFoTkYfitzEG8fYy7bC7hxMfT1"),
     janin.currency.createCurrency ("VikingCoin",          0x46, 0x56, "3",    "D"    , "VJXz1cD1mDGQmu52aDdd7Q2G5ejqA6mcqw"),
+    janin.currency.createCurrency ("VIPSTARCOIN",         0x46, 0x80, "5",    "[LK]" , ""),
     janin.currency.createCurrency ("W2Coin",              0x49, 0xc9, "7",    "W"    , "Wa3AvKUP5J3BpEa93nwKHPAAQ2P1XdTCeU"),
     janin.currency.createCurrency ("WACoins",             0x49, 0xc9, "7",    "W"    , ""),
     janin.currency.createCurrency ("WankCoin",            0x00, 0x80, "5",    "[LK]" , "1CnEFZZxJQkNAvgFGdRV5JEKShkNj1LRWL"),
